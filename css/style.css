@@ -63,7 +63,7 @@ p {
 
 h1, h2, h3, h4, h5, h6, figure {
   color: #000;
-  font-family: "Space Mono", Arial, serif;
+  font-family: "Determination", Arial, serif;
   font-weight: 400;
   margin: 0 0 20px 0;
 }
@@ -138,7 +138,7 @@ h1, h2, h3, h4, h5, h6, figure {
   margin: 20px 0 0 0;
   padding: 0;
   line-height: 40px;
-  font-family: "Space Mono", Arial, serif;
+  font-family: "Determination", Arial, serif;
   font-weight: bold;
   text-transform: uppercase;
 }
@@ -199,7 +199,7 @@ form label {
   margin-bottom: 20px;
   font-size: 40px;
   line-height: 1.5;
-  font-family: "Space Mono", Arial, serif;
+  font-family: "Determination", Arial, serif;
   font-weight: 300;
 }
 @media screen and (max-width: 992px) {
@@ -393,7 +393,7 @@ form label {
 .btn {
   margin-right: 4px;
   margin-bottom: 4px;
-  font-family: "Space Mono", Arial, serif;
+  font-family: "Determination", Arial, serif;
   font-size: 16px;
   font-weight: 400;
   -webkit-border-radius: 30px;
